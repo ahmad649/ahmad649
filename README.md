@@ -34,7 +34,7 @@ class AhmadHasan:
 
 ---
 
-## 🧠 Selected Work
+## Selected Work
 
 > Research-grade experimentation meets production engineering discipline.
 
@@ -51,7 +51,7 @@ class AhmadHasan:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Pure Music** | Dual-Path Transformer for music source separation on MUSDB18. Custom training pipeline with dynamic chunking for long-form audio under GPU constraints. | `PyTorch` `SpeechBrain` |
+| **[Pure Music](https://github.com/ahmad649/PureMusic)** | Dual-Path Transformer for music source separation on MUSDB18. Custom training pipeline with dynamic chunking for long-form audio under GPU constraints. | `PyTorch` `SpeechBrain` |
 | **Human vs. AI Text Classification** | SVM, XGBoost, and fine-tuned BERT for machine-generated text detection. Presented at the COLING MGT Workshop. | `BERT` `XGBoost` `scikit-learn` |
 | **[Career Craft](https://github.com/ahmad649/Career-Craft)** | Full-stack platform with ranked job↔candidate matching and ML-driven career path prediction. | `MERN` `Python` |
 | **[Risk — Warzone](https://github.com/ahmad649/Risk-warzone-game)** | Turn-based strategy engine. Led a team of 5 · 200+ commits · 3 releases · DFS map validation · CI/CD. | `Java` `Maven` `JUnit` |
@@ -130,6 +130,6 @@ Currently building RAG pipelines and agentic workflows. Always happy to talk sho
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hasan-cs)
 
-<sub>When I'm not debugging loss curves: Assassin's Creed, God of War, and an ongoing argument with French verb conjugations.</sub>
+<sub>When I'm not debugging loss curves: Assassin's Creed, Last of Us, and an ongoing argument with French verb conjugations.</sub>
 
 </div>
